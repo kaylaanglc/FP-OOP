@@ -9,7 +9,7 @@ and that hard time becomes progressively harder as the player has less lives.
 
 ### OOP Aspects Implemented:
 1. Casting/Conversion
-https://github.com/kaylaanglc/FP-OOP/blob/main/FP-OOP-Kayla-PACMAN/src/PACMAN/Model.java#L188
+https://github.com/kaylaanglc/FP-OOP/blob/03d4644079ec78319e569b64c571c05b6e5e5489/FP-OOP-Kayla-PACMAN/src/PACMAN/Model.java#L188
 
 2. Constructor
 
